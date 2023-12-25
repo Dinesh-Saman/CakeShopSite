@@ -1,0 +1,24 @@
+/* cakeShop.css */
+
+/* Styles for cake tiles */
+.cake-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .cake-tile {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .cake-tile img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Other styles can be added based on your design */
+  
